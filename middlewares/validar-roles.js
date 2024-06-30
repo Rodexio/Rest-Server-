@@ -39,7 +39,7 @@ const tieneRole = ( ...roles ) => {
     }
 }
 
-modules.exports = {
+module.exports = {
     esAdminRole,
     tieneRole
 }
